@@ -43,7 +43,7 @@ end
 
 group :test do 
   gem 'factory_bot_rails', '~> 4.11', '>= 4.11.1'
-  gem 'shoulda-matchers', '~> 3.1'
+  gem 'shoulda-matchers', '4.0.0.rc1'
   gem 'faker', '~> 1.9', '>= 1.9.1'
   gem 'database_cleaner', '~> 1.7'
 
